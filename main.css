@@ -1,3 +1,10 @@
+* {
+    color: red;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 h1 { 
     color: green;
 }
@@ -11,7 +18,4 @@ h2 {
 }
 .criation-date {
     color: #ccc;
-}
-* {
-    color: red;
 }
