@@ -29,6 +29,10 @@ header li a {
     margin-left: 16px;
 }
 
+header li a:hover {
+    text-decoration: underline;
+}
+
 .container {
     width: 1366px;
     margin: 0 auto 0 auto;
